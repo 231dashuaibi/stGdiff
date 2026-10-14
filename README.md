@@ -58,6 +58,12 @@ conda activate stGdiff
 ```bash
 git clone https://github.com/231dashuaibi/stGdiff.git
 cd stGdiff
+
+# Create and activate virtual environment (Python 3.8 required)
+python3.8 -m venv venv
+source venv/bin/activate        # Linux / macOS
+# venv\Scripts\activate         # Windows
+
 pip install -r requirements.txt
 ```
 
