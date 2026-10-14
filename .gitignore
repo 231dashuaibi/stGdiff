@@ -1,0 +1,30 @@
+﻿# Python byte-compiled / cached
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Vim / editor swap files
+*.swp
+*.swo
+
+# Data and output directories (runtime-generated)
+data/
+Result/
+stGdiff-ckpt/
+tf-logs/
+datasets/
+output/
+ckpt/
+spscope_output/
+
+# Data files that should not be versioned
+*.xlsx
+*.h5ad
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
