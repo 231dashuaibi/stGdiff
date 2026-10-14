@@ -44,12 +44,20 @@ stGdiff/
 
 ## Installation
 
-```bash
-git clone https://github.com/your-username/stGdiff.git
-cd stGdiff
+**Option 1: Conda (recommended)**
 
+```bash
+git clone https://github.com/231dashuaibi/stGdiff.git
+cd stGdiff
 conda env create -f environment.yml
 conda activate stGdiff
+```
+
+**Option 2: Pip**
+
+```bash
+git clone https://github.com/231dashuaibi/stGdiff.git
+cd stGdiff
 pip install -r requirements.txt
 ```
 
