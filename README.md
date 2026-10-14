@@ -142,7 +142,7 @@ If you use stGdiff in your research, please cite:
 
 ## Acknowledgments
 
-stGdiff builds upon [stGDiff](https://github.com/fdu-wangfeilab/stGDiff). Baseline implementations are adapted from [SpatialBenchmarking](https://github.com/QuKunLab/SpatialBenchmarking), scVI, SpaGE, stPlus, Tangram, and SpatialScope.
+stGdiff builds upon [stDiff](https://github.com/fdu-wangfeilab/stDiff). Baseline implementations are adapted from [SpatialBenchmarking](https://github.com/QuKunLab/SpatialBenchmarking), scVI, SpaGE, stPlus, Tangram, and SpatialScope.
 
 ## License
 
